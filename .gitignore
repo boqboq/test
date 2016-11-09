@@ -3,3 +3,7 @@
 ################################################################################
 
 /test/obj/Debug
+/test/bin
+/packages
+/.vs
+/test/test.csproj.user
